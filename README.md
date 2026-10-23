@@ -6,7 +6,7 @@ They can share everyday tips, experiences, and ideas without writing a separate 
 **AI providers gain a continuing source of new information.**  
 What users try, and the recent changes they notice, can become information to reference in later conversations.
 
-## Even a One-Line Discovery Is Worth Sharing
+## Even a One-Line Discovery Can Be Shared
 
 What people share does not have to be anything grand.
 
@@ -73,7 +73,7 @@ The original conversation stays private. Only the text the person selects and ap
 
 ## Why I Want This Feature
 
-If people solve their problems entirely in private AI conversations, might experiences and discoveries that would once have been posted on forums or blogs stop reaching others? I am concerned that, while AI draws on existing shared knowledge, there may be fewer opportunities for new information to replenish it.
+If people solve their problems entirely in private AI conversations, might experiences and discoveries that would once have been posted on forums or blogs stop reaching others? I am concerned that, while AI draws on existing shared knowledge, there may be fewer opportunities for new information to be added to it.
 
 People want to tell others what they have discovered. If they have already put it into words in an AI conversation, it should be easy to share it from there.
 
@@ -81,7 +81,7 @@ This proposal itself grew out of a conversation with AI.
 
 > **It would be a shame to close this conversation and let it disappear.**
 
-It was still only a concept, with no settled path to implementation. Even so, I did not want the idea to end inside that conversation.
+It is still only a concept, with no settled path to implementation. Even so, I did not want the idea to end inside that conversation.
 
 The person who has an idea does not need to also be the writer, tester, implementer, and promoter.
 
@@ -91,7 +91,7 @@ Sharing lets someone else find it one day and take the thinking further. This pr
 
 AI can help shape text. Posts can be stored and searched. Information found through search can be presented in a conversation. The proposal is to connect these capabilities into one flow:
 
-**Select part of a conversation → Review and share it → Discover it in someone else’s conversation**
+**A user selects part of a conversation → They review and share it → Another user finds it in an AI conversation**
 
 This can be tried by combining existing technologies, without waiting for a new technical breakthrough. Since it works by searching and referencing shared text, it does not need to wait for model retraining either.
 
@@ -118,7 +118,7 @@ English | [Japanese / 日本語 (authoritative version)](README.ja.md)
 
 - Made the proposed action the title and changed “Keep” to “Share.”
 - Led with users exchanging discoveries and AI providers gaining a continuing source of new information.
-- Retained concrete examples ranging from one-line tips to unfinished concepts, along with the explanation of the effort needed to turn an already-articulated conversation into a separate post.
+- Retained concrete examples ranging from one-line tips to unfinished concepts, along with the explanation of the effort needed to turn ideas already expressed in a conversation into a separate post.
 - Simplified the step before sharing to the person reviewing the text.
 - Briefly described how to begin by connecting existing features and how sharing within one provider’s service can achieve the goal.
 - Added concern that information may remain inside private AI conversations, reducing the renewal of shared knowledge.
@@ -148,7 +148,7 @@ English | [Japanese / 日本語 (authoritative version)](README.ja.md)
 - Explicitly broadened the scope from one-line practical tips to long, unfinished concepts.
 - Made “keep” rather than “donate” the central action.
 - Moved strict structure, confidence levels, and validation history from mandatory requirements to optional layers.
-- Positioned AI as a gateway through which human thought that has not yet become a public document can enter shared knowledge.
+- Positioned AI as a gateway through which human thoughts that have not yet been written down can enter shared knowledge.
 - Made explicit the round trip through which a preserved thought can later be rediscovered in a conversation between another person and an AI.
 - Redefined the minimal prototype as an experience of selection, reshaping, review, publication, and search rather than the registration of records in a public Git repository.
 
