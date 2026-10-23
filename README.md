@@ -77,7 +77,15 @@ If people solve their problems entirely in private AI conversations, might exper
 
 People want to tell others what they have discovered. If they have already put it into words in an AI conversation, it should be easy to share it from there.
 
-This proposal itself grew out of a conversation with AI. It is one example of a thought that made me want to select “Share this part.”
+This proposal itself grew out of a conversation with AI.
+
+> **It would be a shame to close this conversation and let it disappear.**
+
+It was still only a concept, with no settled path to implementation. Even so, I did not want the idea to end inside that conversation.
+
+The person who has an idea does not need to also be the writer, tester, implementer, and promoter.
+
+Sharing lets someone else find it one day and take the thinking further. This proposal, too, is an example of something I wanted to share in that spirit.
 
 ## No New Technical Foundation Is Needed to Build This Feature
 
