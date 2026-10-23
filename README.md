@@ -71,7 +71,15 @@ Later, when another user asks for ways to eat eggs, the AI can say, “Someone s
 
 The original conversation stays private. Only the text the person selects and approves is shared.
 
-## Start by Connecting Existing Features
+## Why I Want This Feature
+
+If people solve their problems entirely in private AI conversations, might experiences and discoveries that would once have been posted on forums or blogs stop reaching others? I am concerned that, while AI draws on existing shared knowledge, there may be fewer opportunities for new information to replenish it.
+
+People want to tell others what they have discovered. If they have already put it into words in an AI conversation, it should be easy to share it from there.
+
+This proposal itself grew out of a conversation with AI. It is one example of a thought that made me want to select “Share this part.”
+
+## No New Technical Foundation Is Needed to Build This Feature
 
 AI can help shape text. Posts can be stored and searched. Information found through search can be presented in a conversation. The proposal is to connect these capabilities into one flow:
 
@@ -80,14 +88,6 @@ AI can help shape text. Posts can be stored and searched. Information found thro
 This can be tried by combining existing technologies, without waiting for a new technical breakthrough. Since it works by searching and referencing shared text, it does not need to wait for model retraining either.
 
 To start, shared text can be readable by everyone using the same service. Even within one provider’s service, the goal of passing one person’s discovery on to another can be achieved. Publication on the public web or connections to other providers’ services need not be prerequisites.
-
-## Why I Want This Option
-
-If people solve their problems entirely in private AI conversations, might experiences and discoveries that would once have been posted on forums or blogs stop reaching others? I am concerned that, while AI draws on existing shared knowledge, there may be fewer opportunities for new information to replenish it.
-
-People want to tell others what they have discovered. If they have already put it into words in an AI conversation, it should be easy to share it from there.
-
-This proposal itself grew out of a conversation with AI. It is one example of a thought that made me want to select “Share this part.”
 
 ---
 
