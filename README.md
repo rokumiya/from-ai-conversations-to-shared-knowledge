@@ -27,6 +27,22 @@ What matters is simply that **the person thinks, “I want to share this.”**
 
 People should be able to share rough thoughts without polishing them into articles or filling in detailed forms.
 
+## Why I Want This Feature
+
+If people solve their problems entirely in private AI conversations, might experiences and discoveries that would once have been posted on forums or blogs stop reaching others? I am concerned that, while AI draws on existing shared knowledge, there may be fewer opportunities for new information to be added to it.
+
+People want to tell others what they have discovered. If they have already put it into words in an AI conversation, it should be easy to share it from there.
+
+This proposal itself grew out of a conversation with AI.
+
+> **It would be a shame to close this conversation and let it disappear.**
+
+It is still only a concept, with no settled path to implementation. Even so, I did not want the idea to end inside that conversation.
+
+The person who has an idea does not need to also be the writer, tester, implementer, and promoter.
+
+Sharing lets someone else find it one day and take the thinking further. This proposal, too, is an example of something I wanted to share in that spirit.
+
 ## So Much Is Already Being Put into Words in Conversations with AI
 
 People do more in conversations with AI than ask questions and receive answers.
@@ -71,22 +87,6 @@ Later, when another user asks for ways to eat eggs, the AI can say, “Someone s
 
 The original conversation stays private. Only the text the person selects and approves is shared.
 
-## Why I Want This Feature
-
-If people solve their problems entirely in private AI conversations, might experiences and discoveries that would once have been posted on forums or blogs stop reaching others? I am concerned that, while AI draws on existing shared knowledge, there may be fewer opportunities for new information to be added to it.
-
-People want to tell others what they have discovered. If they have already put it into words in an AI conversation, it should be easy to share it from there.
-
-This proposal itself grew out of a conversation with AI.
-
-> **It would be a shame to close this conversation and let it disappear.**
-
-It is still only a concept, with no settled path to implementation. Even so, I did not want the idea to end inside that conversation.
-
-The person who has an idea does not need to also be the writer, tester, implementer, and promoter.
-
-Sharing lets someone else find it one day and take the thinking further. This proposal, too, is an example of something I wanted to share in that spirit.
-
 ## No New Technical Foundation Is Needed to Build This Feature
 
 AI can help shape text. Posts can be stored and searched. Information found through search can be presented in a conversation. The proposal is to connect these capabilities into one flow:
@@ -104,9 +104,9 @@ English | [Japanese / 日本語 (authoritative version)](README.ja.md)
 <details>
 <summary>About This Document and Change Log</summary>
 
-- **Version:** 1.1-draft
+- **Version:** 1.1
 - **Date:** 2026-10-23
-- **Status:** Revision draft / English translation
+- **Status:** Public release / English translation
 - **Author:** rokumiya
 - **Authoritative version:** [Japanese](README.ja.md)
 - **AI assistance:** This proposal emerged from a conversation between a human and ChatGPT, and AI was also used in drafting the document. Final responsibility for the published content rests with its human author.
@@ -114,7 +114,7 @@ English | [Japanese / 日本語 (authoritative version)](README.ja.md)
 
 ## Change Log
 
-### v1.1-draft — 2026-10-23
+### v1.1 — 2026-10-23
 
 - Made the proposed action the title and changed “Keep” to “Share.”
 - Led with users exchanging discoveries and AI providers gaining a continuing source of new information.
