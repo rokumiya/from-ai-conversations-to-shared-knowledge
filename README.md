@@ -8,15 +8,68 @@ What users try, and the recent changes they notice, can become information to re
 
 ## Even a One-Line Discovery Is Worth Sharing
 
-Suppose someone mentions in an AI conversation that a little yuzu kosho tastes good on a soft-boiled egg.
+What people share does not have to be anything grand.
 
-They select “Share this part.” If needed, the AI makes it readable outside the conversation, and the person reviews the text and attribution before sharing it.
+- A small dab of yuzu kosho on a soft-boiled egg turned out to be delicious.
+- A pancake maker turned out to have an unexpected use.
+- The same inefficiency seems to recur at the same point in this task every time.
+- This tool might be much easier to use if just this one part were changed.
+- The method I tried did not work, but this particular condition still seems relevant.
+- I cannot explain it well yet, but perhaps we need a system like this.
+
+Here, “shared knowledge” is not limited to knowledge whose accuracy has been established. It also includes one-line practical tips, personal experiences, questions, failures, and untested ideas.
+
+It could also be a thought like this proposal: too long for a short social media post, yet not developed enough to become an article or formal proposal.
+
+What matters is not whether it is an impressive finished product.
+
+What matters is simply that **the person thinks, “I want to share this.”**
+
+People should be able to share rough thoughts without polishing them into articles or filling in detailed forms.
+
+## So Much Is Already Being Put into Words in Conversations with AI
+
+People do more in conversations with AI than ask questions and receive answers.
+
+- They explain their circumstances.
+- They recall past experiences.
+- They articulate what is inconvenient or difficult.
+- They try talking through a tentative idea.
+- They challenge an AI’s response.
+- They gradually organize their thoughts.
+- They report what happened when they tried something.
+- They arrive at ideas that were not there at the start.
+
+In this process, things that might once have remained only in someone’s mind have already been put into words.
+
+Yet when the conversation ends, most of what was said effectively ceases to exist as shared knowledge.
+
+Even if the conversation remains in a personal account history, it does not exist as shared knowledge that other people can search, cite, or connect with related ideas.
+
+A short thought posted on a platform such as X gains a public URL and at least a chance of being found. A blog can preserve a longer idea.
+
+But turning an AI conversation into a post or an article requires doing all of the following again:
+
+- Decide which part to extract.
+- Rewrite it for people who do not know the surrounding context.
+- Choose where to publish it.
+- Adapt it to the required length and format.
+- Remove personal context.
+- Check whether it is safe and appropriate to publish.
+
+For a single sentence, posting it on X may seem easy enough. Even then, people often do not do it.
+
+More complex thoughts that do not yet even have a name will not fit in a short post, yet are not finished enough to become an article. Thoughts in this middle ground are especially likely to disappear because they have nowhere to go.
+
+AI itself should be able to lower this final barrier.
+
+## Sharing Lets an Idea Reach Someone Else’s Conversation
+
+For example, with the soft-boiled egg tip above, the person selects “Share this part” in the conversation. If needed, the AI makes it readable outside the conversation, and the person reviews the text before sharing it.
 
 Later, when another user asks for ways to eat eggs, the AI can say, “Someone shared this idea,” and point them to the original post.
 
 The original conversation stays private. Only the text the person selects and approves is shared.
-
-A one-line tip, a failed attempt, a question, or an untested idea is enough. So is a longer, unfinished concept like this proposal. People should be able to share rough thoughts without polishing them into articles or filling in detailed forms.
 
 ## Start by Connecting Existing Features
 
@@ -57,6 +110,8 @@ English | [Japanese / 日本語 (authoritative version)](README.ja.md)
 
 - Made the proposed action the title and changed “Keep” to “Share.”
 - Led with users exchanging discoveries and AI providers gaining a continuing source of new information.
+- Retained concrete examples ranging from one-line tips to unfinished concepts, along with the explanation of the effort needed to turn an already-articulated conversation into a separate post.
+- Simplified the step before sharing to the person reviewing the text.
 - Briefly described how to begin by connecting existing features and how sharing within one provider’s service can achieve the goal.
 - Added concern that information may remain inside private AI conversations, reducing the renewal of shared knowledge.
 - Retained explicit user choice and review, privacy of the original conversation, and lightweight sharing, while omitting separate sections on additional features, implementation details, risk lists, exclusions, and open questions.
